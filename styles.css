@@ -10,6 +10,11 @@ body {
     height: 100vh;
 }
 
+.rf {
+    text-align: center;
+    background-position: center;
+}
+
 h1 {
     color: yellow;
 }
@@ -34,8 +39,9 @@ footer {
     padding: 10px;
 }
 
-p, h2 {
-    color:black;
+p,
+h2 {
+    color: black;
 }
 
 @media only screen and (max-width: 600px) {
